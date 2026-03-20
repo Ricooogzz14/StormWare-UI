@@ -1,4 +1,4 @@
-local StormWare = loadstring(game:HttpGet("YOUR_URL_HERE"))()
+local StormWare = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ricooogzz14/StormWare-UI/refs/heads/main/script.lua"))()
 
 --// SET TITLE
 StormWare.SetTitle("StormWare UI")
